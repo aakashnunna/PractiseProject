@@ -21,6 +21,8 @@ public class ArrayListExample {
 
 	    System.out.println("Array List 1 "+ al);
 	    
+	    System.out.println("Stash ");
+	    
 	    ArrayList<Integer> al2 = new ArrayList<Integer>();
 	    al2.add(1);
 	    al2.add(88);
